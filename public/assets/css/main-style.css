@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-navbar{
+    background: rgb(148,0,221);
+    background: linear-gradient(90deg, rgba(148,0,221,1) 0%, rgba(252,0,255,1) 100%);
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 3px 3px 0px;
+}
+
+.main-content-bg-1{
+    color: #fff;
+    background: rgb(148,0,221);
+    background: linear-gradient(90deg, rgba(148,0,221,1) 0%, rgba(252,0,255,1) 100%);
+}
+
+.main-content-footer{
+    bottom: 0;
+    text-align: center;
+    padding: 25px;
+    color: #fff;
+    background: rgb(148,0,221);
+    background: linear-gradient(90deg, rgba(148,0,221,1) 0%, rgba(252,0,255,1) 100%);
+}
