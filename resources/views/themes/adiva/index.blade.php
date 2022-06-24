@@ -29,7 +29,6 @@
       </button>
     </div>
 
-
     <!-- Marketing messaging and featurettes
     ================================================== -->
     <!-- Wrap the rest of the page in another container to center all the content. -->
@@ -38,7 +37,7 @@
 
       <!-- START THE FEATURETTES -->
 
-      <div class="row featurette main-content-bg-1">
+      <div class="row featurette main-content-bg-1 p-4">
         <div class="col-md-7">
           <h2 class="featurette-heading">IT Konsultan.</h2>
           <p class="lead">Perusahaan besar maupun perusahaan kecil membutuhkan konsultasi dari propesional IT. Kami PT Adiva Sumber Solusi memberikan konsultasi untuk kebutuhan IT perusahaan anda.</p>
@@ -49,7 +48,7 @@
         </div>
       </div>
 
-      <div class="row featurette">
+      <div class="row featurette p-4">
         <div class="col-md-7 order-md-2">
           <h2 class="featurette-heading">Website Development</h2>
           <p class="lead">Website yang menarik harus memiliki desain website yang unik. Desain mempunyai nilai plus bagi pemilik website untuk penawaran produk sehingga menarik banyak konsumen. Kami PT Adiva Sumber Solusi memberikan solusi untuk kebutuhan anda dalam membuat website.</p>
@@ -61,7 +60,7 @@
         </div>
       </div>
 
-      <div class="row featurette main-content-bg-1">
+      <div class="row featurette main-content-bg-1 p-4">
         <div class="col-md-7">
           <h2 class="featurette-heading">Teknologi Laravel</h2>
           <p class="lead">Kebanyakan Produk kami menggunakan teknologi framework yaitu laravel. Alasan Kami kenapa memilih framework ini adalah sebagai berikut : </p>
