@@ -42,7 +42,7 @@
 
       <!-- START THE FEATURETTES -->
 
-      <div class="row featurette main-content-bg-1 p-4">
+      <div class="row featurette main-content-bg-1 p-4 fadeup">
         <div class="col-md-7">
           <h2 class="featurette-heading">IT Konsultan.</h2>
           <p class="lead">Perusahaan besar maupun perusahaan kecil membutuhkan konsultasi dari propesional IT. Kami PT Adiva Sumber Solusi memberikan konsultasi untuk kebutuhan IT perusahaan anda.</p>
@@ -65,7 +65,7 @@
         </div>
       </div>
 
-      <div class="row featurette main-content-bg-1 p-4">
+      <div class="row featurette main-content-bg-1 p-4 fadeup">
         <div class="col-md-7">
           <h2 class="featurette-heading">Teknologi Laravel</h2>
           <p class="lead">Kebanyakan Produk kami menggunakan teknologi framework yaitu laravel. Alasan Kami kenapa memilih framework ini adalah sebagai berikut : </p>

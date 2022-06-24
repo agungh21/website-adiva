@@ -82,6 +82,27 @@
     {{-- Font Awesome JS --}}
     <script src="{{ asset('assets/vendors/fontawesome/js/all.js') }}"></script>
 
+    {{-- scroll animated js --}}
+    <script>
+        // fade-up
+        function fadeup() {
+        var fadeups = document.querySelectorAll(".fadeup");
+
+        for (var i = 0; i < fadeups.length; i++) {
+                var windowHeight = window.innerHeight;
+                var elementTop = fadeups[i].getBoundingClientRect().top;
+                var elementVisible = 150;
+
+                if (elementTop < windowHeight - elementVisible) {
+                fadeups[i].classList.add("active");
+                } else {
+                fadeups[i].classList.remove("active");
+                }
+            }
+        }
+
+        window.addEventListener("scroll", fadeup);
+    </script>
 </body>
 
 </html>

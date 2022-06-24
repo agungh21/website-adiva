@@ -40,3 +40,18 @@ body{
 .logo-adiva-img{
     width: 200px;
 }
+
+/* animation */
+
+/* fade-up */
+.fadeup{
+    position: relative;
+    transform: translateY(150px);
+    opacity: 0;
+    transition: 1s all ease;
+}
+
+.fadeup.active{
+    transform: translateY(0);
+    opacity: 1;
+}
