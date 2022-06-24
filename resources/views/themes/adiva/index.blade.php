@@ -29,6 +29,11 @@
       </button>
     </div>
 
+    {{-- logo adiva --}}
+    <div class="logo-adiva text-center pb-5">
+        <img class="logo-adiva-img" src="{{ asset('/assets/img/logoadiva.png') }}" alt="logo-adiva" srcset="">
+    </div>
+
     <!-- Marketing messaging and featurettes
     ================================================== -->
     <!-- Wrap the rest of the page in another container to center all the content. -->
